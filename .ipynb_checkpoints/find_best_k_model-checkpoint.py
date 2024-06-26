@@ -54,7 +54,7 @@ data = pd.read_csv(file_path)
 #import word embedding model
 ############################
 K = 5
-known_unknown = False
+known_unknown = True
 
 # Define the base path for the models
 base_path = "Embedding_Models"
