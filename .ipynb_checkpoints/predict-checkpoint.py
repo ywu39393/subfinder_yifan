@@ -7,10 +7,25 @@ import os
 
 
 ############################################
-#number of replication, default=200
-n = 200
-#input data folder
-folder_path = "cgc_input_reformat"
+import argparse
+
+# Initialize the parser
+parser = argparse.ArgumentParser(description="Process some inputs.")
+
+# Add the arguments
+parser.add_argument("-n", "--number", type=int, default=200, help="Number of replications (default: 200)")
+parser.add_argument("-f", "--folder", type=str, default="cgc_input_reformat", help="Input data folder (default: 'cgc_input_reformat')")
+
+# Parse the arguments
+args = parser.parse_args()
+
+# Access the arguments
+n = args.number
+folder_path = args.folder
+
+# Your code using n and folder_path
+print(f"Number of replications: {n}")
+print(f"Input data folder: {folder_path}")
 ############################################
 
 
