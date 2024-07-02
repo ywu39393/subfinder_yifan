@@ -17,7 +17,7 @@ def transformer_encoder(inputs, head_size, num_heads, ff_dim, dropout=0):
     x = LayerNormalization(epsilon=1e-6)(x)
     return x + res
 
-def transformer_model(num_classes, training, model_cbow, num_transformer_blocks=4, head_size=128, num_heads=4, ff_dim=512, dropout=0.2):
+def transformer_model(num_classes, training, model_cbow, num_transformer_blocks=4, head_size=128, num_heads=4, ff_dim=512, dropout=0.5):
     padding_vector = np.zeros((1, model_cbow.wv.vectors.shape[1]))
     unknown_vector = np.zeros((1, model_cbow.wv.vectors.shape[1]))
     weight_vectors = np.vstack((padding_vector, unknown_vector))

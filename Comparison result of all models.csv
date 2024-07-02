@@ -1,2 +1,0 @@
-num_substrates,feature_method,avg_accuracy,avg_classwise_acc,std_err_avg_acc,std_err_avg_classwise_acc,avg_precision,avg_recall,avg_f1_score
-7,transformer,0.8210338680926916,0.8112244897959184,0.08478442435598074,0.10610391430677041,0.8366037930323644,0.8112244897959184,0.7959637188208617
