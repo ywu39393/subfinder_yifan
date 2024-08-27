@@ -1,0 +1,141 @@
+ID,substrate,score
+scaffold_9|CGC1,host glycan,0.54
+scaffold_9|CGC1,pectin,0.15
+scaffold_9|CGC1,alginate,0.13
+scaffold_9|CGC1,beta-glucan,0.08
+scaffold_9|CGC1,cellulose,0.06
+scaffold_9|CGC1,xylan,0.03
+scaffold_9|CGC1,starch,0.01
+scaffold_8|CGC1,host glycan,0.4
+scaffold_8|CGC1,starch,0.22
+scaffold_8|CGC1,alginate,0.15
+scaffold_8|CGC1,pectin,0.13
+scaffold_8|CGC1,beta-glucan,0.1
+scaffold_6|CGC1,starch,0.54
+scaffold_6|CGC1,beta-glucan,0.25
+scaffold_6|CGC1,host glycan,0.16
+scaffold_6|CGC1,pectin,0.03
+scaffold_6|CGC1,xylan,0.02
+scaffold_5|CGC2,xylan,0.36
+scaffold_5|CGC2,host glycan,0.28
+scaffold_5|CGC2,beta-glucan,0.21
+scaffold_5|CGC2,pectin,0.08
+scaffold_5|CGC2,cellulose,0.04
+scaffold_5|CGC2,alginate,0.03
+scaffold_5|CGC1,host glycan,0.53
+scaffold_5|CGC1,beta-glucan,0.36
+scaffold_5|CGC1,pectin,0.04
+scaffold_5|CGC1,alginate,0.03
+scaffold_5|CGC1,xylan,0.03
+scaffold_5|CGC1,starch,0.01
+scaffold_56|CGC1,host glycan,0.69
+scaffold_56|CGC1,beta-glucan,0.17
+scaffold_56|CGC1,alginate,0.07
+scaffold_56|CGC1,pectin,0.07
+scaffold_54|CGC1,cellulose,0.7
+scaffold_54|CGC1,beta-glucan,0.2
+scaffold_54|CGC1,alginate,0.05
+scaffold_54|CGC1,pectin,0.02
+scaffold_54|CGC1,host glycan,0.01
+scaffold_54|CGC1,starch,0.01
+scaffold_54|CGC1,xylan,0.01
+scaffold_45|CGC1,pectin,0.31
+scaffold_45|CGC1,cellulose,0.19
+scaffold_45|CGC1,alginate,0.18
+scaffold_45|CGC1,host glycan,0.16
+scaffold_45|CGC1,beta-glucan,0.08
+scaffold_45|CGC1,starch,0.05
+scaffold_45|CGC1,xylan,0.03
+scaffold_3|CGC2,host glycan,0.45
+scaffold_3|CGC2,xylan,0.42
+scaffold_3|CGC2,pectin,0.08
+scaffold_3|CGC2,alginate,0.04
+scaffold_3|CGC2,beta-glucan,0.01
+scaffold_3|CGC1,host glycan,0.53
+scaffold_3|CGC1,beta-glucan,0.23
+scaffold_3|CGC1,alginate,0.15
+scaffold_3|CGC1,pectin,0.04
+scaffold_3|CGC1,xylan,0.03
+scaffold_3|CGC1,cellulose,0.01
+scaffold_3|CGC1,starch,0.01
+scaffold_33|CGC1,alginate,0.44
+scaffold_33|CGC1,beta-glucan,0.29
+scaffold_33|CGC1,cellulose,0.16
+scaffold_33|CGC1,host glycan,0.05
+scaffold_33|CGC1,pectin,0.04
+scaffold_33|CGC1,starch,0.01
+scaffold_33|CGC1,xylan,0.01
+scaffold_31|CGC1,host glycan,0.65
+scaffold_31|CGC1,xylan,0.24
+scaffold_31|CGC1,pectin,0.05
+scaffold_31|CGC1,alginate,0.04
+scaffold_31|CGC1,beta-glucan,0.01
+scaffold_31|CGC1,cellulose,0.01
+scaffold_2|CGC2,xylan,0.74
+scaffold_2|CGC2,host glycan,0.11
+scaffold_2|CGC2,cellulose,0.08
+scaffold_2|CGC2,pectin,0.04
+scaffold_2|CGC2,beta-glucan,0.03
+scaffold_2|CGC1,host glycan,0.31
+scaffold_2|CGC1,alginate,0.28
+scaffold_2|CGC1,pectin,0.22
+scaffold_2|CGC1,beta-glucan,0.08
+scaffold_2|CGC1,cellulose,0.06
+scaffold_2|CGC1,xylan,0.05
+scaffold_25|CGC1,beta-glucan,0.35
+scaffold_25|CGC1,starch,0.32
+scaffold_25|CGC1,alginate,0.19
+scaffold_25|CGC1,host glycan,0.11
+scaffold_25|CGC1,cellulose,0.02
+scaffold_25|CGC1,pectin,0.01
+scaffold_24|CGC1,xylan,0.65
+scaffold_24|CGC1,pectin,0.25
+scaffold_24|CGC1,host glycan,0.09
+scaffold_24|CGC1,cellulose,0.01
+scaffold_22|CGC1,host glycan,0.32
+scaffold_22|CGC1,cellulose,0.3
+scaffold_22|CGC1,pectin,0.23
+scaffold_22|CGC1,xylan,0.14
+scaffold_22|CGC1,beta-glucan,0.01
+scaffold_1|CGC2,host glycan,0.75
+scaffold_1|CGC2,pectin,0.09
+scaffold_1|CGC2,alginate,0.07
+scaffold_1|CGC2,beta-glucan,0.05
+scaffold_1|CGC2,xylan,0.02
+scaffold_1|CGC2,cellulose,0.01
+scaffold_1|CGC2,starch,0.01
+scaffold_1|CGC1,beta-glucan,0.26
+scaffold_1|CGC1,starch,0.26
+scaffold_1|CGC1,host glycan,0.23
+scaffold_1|CGC1,alginate,0.18
+scaffold_1|CGC1,pectin,0.06
+scaffold_1|CGC1,cellulose,0.01
+scaffold_19|CGC1,beta-glucan,0.51
+scaffold_19|CGC1,host glycan,0.37
+scaffold_19|CGC1,cellulose,0.05
+scaffold_19|CGC1,pectin,0.04
+scaffold_19|CGC1,alginate,0.03
+scaffold_14|CGC1,host glycan,0.52
+scaffold_14|CGC1,beta-glucan,0.32
+scaffold_14|CGC1,alginate,0.08
+scaffold_14|CGC1,cellulose,0.06
+scaffold_14|CGC1,pectin,0.02
+scaffold_13|CGC1,beta-glucan,0.31
+scaffold_13|CGC1,host glycan,0.28
+scaffold_13|CGC1,alginate,0.21
+scaffold_13|CGC1,starch,0.18
+scaffold_13|CGC1,pectin,0.02
+scaffold_12|CGC2,host glycan,0.47
+scaffold_12|CGC2,beta-glucan,0.38
+scaffold_12|CGC2,alginate,0.05
+scaffold_12|CGC2,cellulose,0.05
+scaffold_12|CGC2,pectin,0.02
+scaffold_12|CGC2,starch,0.02
+scaffold_12|CGC2,xylan,0.01
+scaffold_12|CGC1,host glycan,0.58
+scaffold_12|CGC1,pectin,0.26
+scaffold_12|CGC1,alginate,0.06
+scaffold_12|CGC1,beta-glucan,0.04
+scaffold_12|CGC1,xylan,0.04
+scaffold_12|CGC1,cellulose,0.01
+scaffold_12|CGC1,starch,0.01
