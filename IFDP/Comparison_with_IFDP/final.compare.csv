@@ -1,0 +1,149 @@
+PULID,IFDP,dbCAN-PUL
+PUL0002,Xanthan |Beta-glucan|Cellulose|Xloglucan,beta-glucan
+PUL0003,Arabinogalactan|Arabinan|Rhamnogalacturonan|Pectin|Arabinoxylan,xylan
+PUL0010,Xylan|Arabinoxylan,xylan
+PUL0011,NA,cellulose
+PUL0014,NA,pectin
+PUL0027,Alginate,alginate
+PUL0034,Xylan|Arabinoxylan,pectin
+PUL0035,NA,pectin
+PUL0040,NA,cellulose
+PUL0051,Alginate,alginate
+PUL0052,Alginate,alginate
+PUL0053,Alginate,alginate
+PUL0054,Alginate,alginate
+PUL0055,NA,alginate
+PUL0056,NA,alginate
+PUL0081,NA,pectin
+PUL0083,Xanthan |Beta-glucan|Cellulose|Xloglucan,cellulose
+PUL0084,NA,cellulose
+PUL0085,NA,beta-glucan
+PUL0086,Rhamnogalacturonan|Pectin,pectin
+PUL0087,Xanthan |Beta-glucan|Cellulose|Xloglucan,cellulose
+PUL0089,Xanthan |Beta-glucan|Cellulose|Xloglucan,cellulose
+PUL0125,Xanthan |Beta-glucan|Cellulose|Xloglucan,beta-glucan
+PUL0132,Xanthan |Beta-glucan|Cellulose|Xloglucan,beta-glucan
+PUL0134,NA,pectin
+PUL0135,NA,pectin
+PUL0136,NA,pectin
+PUL0150,Alginate,alginate
+PUL0151,Alginate,alginate
+PUL0152,Alginate,alginate
+PUL0155,NA,alginate
+PUL0166,NA,starch
+PUL0170,Xanthan |Beta-glucan|Cellulose|Xloglucan,beta-glucan
+PUL0174,Resistant starch,starch
+PUL0187,Xanthan |Beta-glucan|Cellulose|Xloglucan,beta-glucan
+PUL0189,Rhamnogalacturonan|Pectin|Gellan,pectin
+PUL0190,Arabinogalactan|Arabinan|Rhamnogalacturonan|Pectin|Arabinoxylan,pectin
+PUL0191,NA,pectin
+PUL0192,NA,pectin
+PUL0193,NA,pectin
+PUL0199,Alginate,alginate
+PUL0216,NA,alginate
+PUL0220,Arabinogalactan|Gellan,beta-glucan
+PUL0221,Xanthan |Beta-glucan|Cellulose|Xloglucan,cellulose
+PUL0222,Xanthan |Galctomannan|Galactoglucomannan|Glucomannan|Mannan,cellulose
+PUL0224,NA,cellulose
+PUL0227,Xylan|Arabinoxylan,xylan
+PUL0230,Resistant starch,starch
+PUL0234,Xanthan |Beta-glucan|Cellulose|Xloglucan,beta-glucan
+PUL0235,NA,alginate
+PUL0239,Xanthan |Beta-glucan|Cellulose|Xloglucan,cellulose
+PUL0240,NA,cellulose
+PUL0241,Xanthan |Beta-glucan|Cellulose|Xloglucan,cellulose
+PUL0242,NA,cellulose
+PUL0243,Dextran|Galctomannan|Galactoglucomannan|Carageenan,cellulose
+PUL0249,NA,pectin
+PUL0268,Resistant starch,starch
+PUL0275,NA,starch
+PUL0289,Xanthan |Beta-glucan|Cellulose|Xloglucan,xylan
+PUL0294,Xylan|Arabinoxylan,xylan
+PUL0305,NA,pectin
+PUL0308,Xanthan |Beta-glucan|Cellulose|Xloglucan,beta-glucan
+PUL0310,Xylan|Arabinoxylan,beta-glucan
+PUL0311,NA,cellulose
+PUL0313,Alginate,alginate
+PUL0325,Xanthan |Beta-glucan|Cellulose|Xloglucan,beta-glucan
+PUL0326,NA,beta-glucan
+PUL0327,NA,starch
+PUL0328,NA,xylan
+PUL0329,NA,xylan
+PUL0330,NA,pectin
+PUL0342,NA,xylan
+PUL0345,Xylan|Arabinoxylan,xylan
+PUL0346,Xylan|Arabinoxylan,xylan
+PUL0363,NA,pectin
+PUL0364,NA,xylan
+PUL0365,Resistant starch,starch
+PUL0371,Resistant starch,starch
+PUL0385,NA,cellulose
+PUL0386,NA,xylan
+PUL0390,Xylan|Arabinoxylan,xylan
+PUL0392,NA,xylan
+PUL0400,Alginate,alginate
+PUL0401,Xanthan |Beta-glucan|Cellulose|Xloglucan,beta-glucan
+PUL0403,Xanthan |Beta-glucan|Cellulose|Xloglucan,beta-glucan
+PUL0404,NA,pectin
+PUL0405,NA,pectin
+PUL0406,NA,beta-glucan
+PUL0411,Xylan|Arabinoxylan,xylan
+PUL0412,NA,pectin
+PUL0414,Xylan|Arabinoxylan,xylan
+PUL0421,Dextran|Galctomannan|Galactoglucomannan|Carageenan,starch
+PUL0445,NA,alginate
+PUL0456,NA,xylan
+PUL0457,Xylan|Arabinoxylan,xylan
+PUL0469,Resistant starch,starch
+PUL0477,Xanthan |Beta-glucan|Cellulose|Xloglucan,beta-glucan
+PUL0479,NA,pectin
+PUL0480,Xanthan |Beta-glucan|Cellulose|Xloglucan,xylan
+PUL0481,Xanthan |Beta-glucan|Cellulose|Xloglucan,xylan
+PUL0482,NA,pectin
+PUL0483,NA,pectin
+PUL0484,Arabinogalactan|Arabinan|Rhamnogalacturonan|Pectin|Arabinoxylan,pectin
+PUL0485,Resistant starch,starch
+PUL0526,Xanthan |Beta-glucan|Cellulose|Xloglucan,beta-glucan
+PUL0528,Xanthan |Beta-glucan|Cellulose|Xloglucan,beta-glucan
+PUL0529,Xanthan |Beta-glucan|Cellulose|Xloglucan,pectin
+PUL0530,NA,pectin
+PUL0534,NA,pectin
+PUL0537,Xanthan |Beta-glucan|Cellulose|Xloglucan,beta-glucan
+PUL0540,Dextran|Galctomannan|Galactoglucomannan|Carageenan,starch
+PUL0542,Xylan|Arabinoxylan,xylan
+PUL0549,NA,pectin
+PUL0553,Xanthan |Beta-glucan|Cellulose|Xloglucan,xylan
+PUL0554,Xloglucan,starch
+PUL0558,NA,pectin
+PUL0559,Dextran|Galctomannan|Galactoglucomannan|Carageenan,pectin
+PUL0564,NA,pectin
+PUL0566,NA,pectin
+PUL0572,Alginate,alginate
+PUL0578,Xanthan |Beta-glucan|Cellulose|Xloglucan,beta-glucan
+PUL0589,NA,starch
+PUL0592,NA,xylan
+PUL0594,Arabinogalactan|Arabinan|Rhamnogalacturonan|Pectin|Arabinoxylan,xylan
+PUL0595,Resistant starch,starch
+PUL0596,Resistant starch,starch
+PUL0599,Xylan|Arabinoxylan,xylan
+PUL0601,NA,pectin
+PUL0602,Xylan|Arabinoxylan,xylan
+PUL0610,Xanthan |Beta-glucan|Cellulose|Xloglucan,xylan
+PUL0614,NA,pectin
+PUL0615,NA,pectin
+PUL0616,NA,pectin
+PUL0617,Xylan|Arabinoxylan,xylan
+PUL0618,Dextran|Galctomannan|Galactoglucomannan|Carageenan,pectin
+PUL0619,NA,xylan
+PUL0620,Arabinogalactan|Arabinan|Rhamnogalacturonan|Pectin|Arabinoxylan,xylan
+PUL0621,Xanthan |Beta-glucan|Cellulose|Xloglucan,pectin
+PUL0622,NA,xylan
+PUL0623,Xanthan |Beta-glucan|Cellulose|Xloglucan,pectin
+PUL0624,Arabinogalactan|Arabinan|Rhamnogalacturonan|Pectin|Arabinoxylan,xylan
+PUL0625,Arabinogalactan|Arabinan|Rhamnogalacturonan|Pectin|Arabinoxylan,xylan
+PUL0630,Xylan|Arabinoxylan,xylan
+PUL0631,NA,alginate
+PUL0646,Xanthan |Beta-glucan|Cellulose|Xloglucan,beta-glucan
+PUL0648,NA,xylan
+PUL0654,Alginate,alginate
+PUL0655,NA,alginate

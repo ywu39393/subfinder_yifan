@@ -14,7 +14,7 @@ import csv
 import argparse
 
 # Initialize the parser
-parser = argparse.ArgumentParser(description="Process some inputs.")
+parser = argparse.ArgumentParser(description="Subfinder input and output descriptionx.")
 
 # Add the arguments
 parser.add_argument("-i", "--input", type=str, default="cgc_standard.out", help="Input data file name (default: 'cgc_standard.out')")
@@ -27,13 +27,12 @@ args = parser.parse_args()
 input_file = args.input
 output_file_location = args.output
 
-# Your code using input_file and output_file
+
 # Example: Read input_file and write results to output_file
 
 print(f"Input data file: {input_file}")
 print(f"Output summary file: {output_file_location}")
 ############################################
-
 ###########tranform cgc input to required input on predict model
 
 output_file = 'reformat'
@@ -113,8 +112,14 @@ column_name = result.columns.values[1:]
 result_melt = pd.melt(result, id_vars='ID', value_vars=column_name, var_name = 'substrate', value_name = 'score')
 result_melt['score'] = result_melt['score']/n
 result_melt_sort = result_melt.sort_values(by=['ID', 'score'], ascending = False)
-#reorganizing
-result_melt_sort = result_melt_sort[~(result_melt_sort['score'] == 0)]
 
-result_melt_sort.to_csv(output_file_location, index=False)
+# Remove rows where score is zero
+result_melt_sort = result_melt_sort[result_melt_sort['score'] != 0]
+
+# Keep only rows with the largest score for each ID, including ties
+max_scores = result_melt_sort.groupby('ID')['score'].transform('max')
+result_melt_max = result_melt_sort[result_melt_sort['score'] == max_scores]
+
+# Save the result to CSV
+result_melt_max.to_csv(output_file_location, index=False)
 print(f"Prediction Output saved as {output_file_location}")
